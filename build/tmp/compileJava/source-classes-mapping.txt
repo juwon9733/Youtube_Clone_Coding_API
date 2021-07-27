@@ -1,0 +1,236 @@
+com/example/demo/src/reply/model/PostReplyLikedReq.java
+ com.example.demo.src.reply.model.PostReplyLikedReq
+com/example/demo/src/video/model/Video.java
+ com.example.demo.src.video.model.Video
+com/example/demo/src/community/CommunityDao.java
+ com.example.demo.src.community.CommunityDao
+com/example/demo/src/comment/model/PostCommentUnLikedReq.java
+ com.example.demo.src.comment.model.PostCommentUnLikedReq
+com/example/demo/src/reply/ReplyDao.java
+ com.example.demo.src.reply.ReplyDao
+com/example/demo/src/community/model/GetCommunityRes.java
+ com.example.demo.src.community.model.GetCommunityRes
+com/example/demo/src/community/model/PostCommunityUnLikedReq.java
+ com.example.demo.src.community.model.PostCommunityUnLikedReq
+com/example/demo/config/BaseResponseStatus.java
+ com.example.demo.config.BaseResponseStatus
+com/example/demo/src/reply/model/GetReplyRes.java
+ com.example.demo.src.reply.model.GetReplyRes
+com/example/demo/src/community/model/PostCommContentRes.java
+ com.example.demo.src.community.model.PostCommContentRes
+com/example/demo/src/user/model/PostSearchReq.java
+ com.example.demo.src.user.model.PostSearchReq
+com/example/demo/src/video/model/PostVideoUnLikedRes.java
+ com.example.demo.src.video.model.PostVideoUnLikedRes
+com/example/demo/src/community/model/GetCommunityUnLikedRes.java
+ com.example.demo.src.community.model.GetCommunityUnLikedRes
+com/example/demo/src/kakaoLogin/KakaoProvider.java
+ com.example.demo.src.kakaoLogin.KakaoProvider
+com/example/demo/src/community/model/PostCommContentReq.java
+ com.example.demo.src.community.model.PostCommContentReq
+com/example/demo/src/user/model/PostUserRes.java
+ com.example.demo.src.user.model.PostUserRes
+com/example/demo/src/community/model/PostCommunityLikedRes.java
+ com.example.demo.src.community.model.PostCommunityLikedRes
+com/example/demo/src/user/model/KakaoLoginReq.java
+ com.example.demo.src.user.model.KakaoLoginReq
+com/example/demo/src/reply/model/PostReplyLikedRes.java
+ com.example.demo.src.reply.model.PostReplyLikedRes
+com/example/demo/src/user/model/KakaoProfile.java
+ com.example.demo.src.user.model.KakaoProfile
+ com.example.demo.src.user.model.KakaoProfile$Kakao_account
+ com.example.demo.src.user.model.KakaoProfile$Kakao_account$Profile
+ com.example.demo.src.user.model.KakaoProfile$Properties
+com/example/demo/src/reply/model/GetReplyLikedRes.java
+ com.example.demo.src.reply.model.GetReplyLikedRes
+com/example/demo/src/video/model/PostVideoRes.java
+ com.example.demo.src.video.model.PostVideoRes
+com/example/demo/src/video/model/PostVideoLikedRes.java
+ com.example.demo.src.video.model.PostVideoLikedRes
+com/example/demo/src/video/model/GetPlayListRes.java
+ com.example.demo.src.video.model.GetPlayListRes
+com/example/demo/src/reply/model/PostReplyRes.java
+ com.example.demo.src.reply.model.PostReplyRes
+com/example/demo/src/video/model/PatchVideoStatusReq.java
+ com.example.demo.src.video.model.PatchVideoStatusReq
+com/example/demo/src/community/model/PostCommunityUnLikedRes.java
+ com.example.demo.src.community.model.PostCommunityUnLikedRes
+com/example/demo/src/user/model/PatchModifyUserReq.java
+ com.example.demo.src.user.model.PatchModifyUserReq
+com/example/demo/src/reply/model/Reply.java
+ com.example.demo.src.reply.model.Reply
+com/example/demo/src/user/model/PostLoginRes.java
+ com.example.demo.src.user.model.PostLoginRes
+com/example/demo/src/user/model/PostLogoutRes.java
+ com.example.demo.src.user.model.PostLogoutRes
+com/example/demo/src/comment/model/PostCommentUnLikedRes.java
+ com.example.demo.src.comment.model.PostCommentUnLikedRes
+com/example/demo/src/user/UserDao.java
+ com.example.demo.src.user.UserDao
+com/example/demo/src/user/model/PatchUserReq.java
+ com.example.demo.src.user.model.PatchUserReq
+com/example/demo/src/video/model/GetVideoPlayListRes.java
+ com.example.demo.src.video.model.GetVideoPlayListRes
+com/example/demo/src/test/TestController.java
+ com.example.demo.src.test.TestController
+com/example/demo/src/reply/model/PatchReplyReq.java
+ com.example.demo.src.reply.model.PatchReplyReq
+com/example/demo/src/community/model/PostCommPictureRes.java
+ com.example.demo.src.community.model.PostCommPictureRes
+com/example/demo/src/reply/model/PostReplyUnLikedRes.java
+ com.example.demo.src.reply.model.PostReplyUnLikedRes
+com/example/demo/src/user/model/PostLaterVideoReq.java
+ com.example.demo.src.user.model.PostLaterVideoReq
+com/example/demo/src/user/UserController.java
+ com.example.demo.src.user.UserController
+com/example/demo/src/community/model/GetCommunityLikedRes.java
+ com.example.demo.src.community.model.GetCommunityLikedRes
+com/example/demo/src/comment/model/PostCommentReq.java
+ com.example.demo.src.comment.model.PostCommentReq
+com/example/demo/src/comment/model/PatchCommentReq.java
+ com.example.demo.src.comment.model.PatchCommentReq
+com/example/demo/src/reply/ReplyService.java
+ com.example.demo.src.reply.ReplyService
+com/example/demo/src/video/model/PostVideoUnLikedReq.java
+ com.example.demo.src.video.model.PostVideoUnLikedReq
+com/example/demo/src/community/model/PostCommunityLikedReq.java
+ com.example.demo.src.community.model.PostCommunityLikedReq
+com/example/demo/utils/JwtService.java
+ com.example.demo.utils.JwtService
+com/example/demo/src/user/model/PostVideoHistoryReq.java
+ com.example.demo.src.user.model.PostVideoHistoryReq
+com/example/demo/src/user/UserProvider.java
+ com.example.demo.src.user.UserProvider
+com/example/demo/src/video/VideoController.java
+ com.example.demo.src.video.VideoController
+com/example/demo/src/comment/model/GetCommentCountReplyRes.java
+ com.example.demo.src.comment.model.GetCommentCountReplyRes
+com/example/demo/config/Constant.java
+ com.example.demo.config.Constant
+com/example/demo/src/reply/model/PostReplyUnLikedReq.java
+ com.example.demo.src.reply.model.PostReplyUnLikedReq
+com/example/demo/src/comment/CommentService.java
+ com.example.demo.src.comment.CommentService
+com/example/demo/utils/ValidationRegex.java
+ com.example.demo.utils.ValidationRegex
+com/example/demo/src/video/model/GetVideoLikedRes.java
+ com.example.demo.src.video.model.GetVideoLikedRes
+com/example/demo/src/comment/CommentProvider.java
+ com.example.demo.src.comment.CommentProvider
+com/example/demo/src/comment/model/GetCommentLikedRes.java
+ com.example.demo.src.comment.model.GetCommentLikedRes
+com/example/demo/src/comment/model/GetCommentUnLikedRes.java
+ com.example.demo.src.comment.model.GetCommentUnLikedRes
+com/example/demo/src/community/CommunityProvider.java
+ com.example.demo.src.community.CommunityProvider
+com/example/demo/src/reply/ReplyController.java
+ com.example.demo.src.reply.ReplyController
+com/example/demo/src/comment/model/PatchCommentStatusReq.java
+ com.example.demo.src.comment.model.PatchCommentStatusReq
+com/example/demo/src/comment/model/PostCommentLikedRes.java
+ com.example.demo.src.comment.model.PostCommentLikedRes
+com/example/demo/src/kakaoLogin/KakaoService.java
+ com.example.demo.src.kakaoLogin.KakaoService
+com/example/demo/src/community/model/GetCommPictureRes.java
+ com.example.demo.src.community.model.GetCommPictureRes
+com/example/demo/src/video/model/PatchVideoReq.java
+ com.example.demo.src.video.model.PatchVideoReq
+com/example/demo/src/video/model/GetVideoRes.java
+ com.example.demo.src.video.model.GetVideoRes
+com/example/demo/src/video/model/GetVideoCountCommentRes.java
+ com.example.demo.src.video.model.GetVideoCountCommentRes
+com/example/demo/src/video/VideoProvider.java
+ com.example.demo.src.video.VideoProvider
+com/example/demo/config/secret/Secret.java
+ com.example.demo.config.secret.Secret
+com/example/demo/src/community/CommunityService.java
+ com.example.demo.src.community.CommunityService
+com/example/demo/src/comment/CommentController.java
+ com.example.demo.src.comment.CommentController
+com/example/demo/src/reply/model/PostReplyReq.java
+ com.example.demo.src.reply.model.PostReplyReq
+com/example/demo/config/BaseResponse.java
+ com.example.demo.config.BaseResponse
+com/example/demo/src/video/VideoDao.java
+ com.example.demo.src.video.VideoDao
+com/example/demo/src/user/model/PatchModifyUserStatusReq.java
+ com.example.demo.src.user.model.PatchModifyUserStatusReq
+com/example/demo/src/video/model/GetVideoUnLikedRes.java
+ com.example.demo.src.video.model.GetVideoUnLikedRes
+com/example/demo/src/user/UserService.java
+ com.example.demo.src.user.UserService
+com/example/demo/src/user/model/PostSubscribeRes.java
+ com.example.demo.src.user.model.PostSubscribeRes
+com/example/demo/utils/KakaoToken.java
+ com.example.demo.utils.KakaoToken
+com/example/demo/src/reply/model/GetReplyUnLikedRes.java
+ com.example.demo.src.reply.model.GetReplyUnLikedRes
+com/example/demo/src/user/model/PostSearchRes.java
+ com.example.demo.src.user.model.PostSearchRes
+com/example/demo/src/user/model/GetUserSearchRes.java
+ com.example.demo.src.user.model.GetUserSearchRes
+com/example/demo/config/BaseException.java
+ com.example.demo.config.BaseException
+com/example/demo/src/reply/model/PatchReplyStatusReq.java
+ com.example.demo.src.reply.model.PatchReplyStatusReq
+com/example/demo/src/video/VideoService.java
+ com.example.demo.src.video.VideoService
+com/example/demo/src/video/model/PostVideoReq.java
+ com.example.demo.src.video.model.PostVideoReq
+com/example/demo/src/comment/model/PostCommentLikedReq.java
+ com.example.demo.src.comment.model.PostCommentLikedReq
+com/example/demo/src/user/model/PostUserReq.java
+ com.example.demo.src.user.model.PostUserReq
+ com.example.demo.src.user.model.PostUserReq$PostUserReqBuilder
+com/example/demo/src/user/model/GetVideosUserLikedRes.java
+ com.example.demo.src.user.model.GetVideosUserLikedRes
+com/example/demo/src/comment/model/PostCommentRes.java
+ com.example.demo.src.comment.model.PostCommentRes
+com/example/demo/src/video/model/GetVideoUserHistoryRes.java
+ com.example.demo.src.video.model.GetVideoUserHistoryRes
+com/example/demo/src/kakaoLogin/KakaoController.java
+ com.example.demo.src.kakaoLogin.KakaoController
+com/example/demo/src/user/model/PostLaterVideoRes.java
+ com.example.demo.src.user.model.PostLaterVideoRes
+com/example/demo/src/community/model/PatchCommunityReq.java
+ com.example.demo.src.community.model.PatchCommunityReq
+com/example/demo/src/video/model/PatchModifyVideoReq.java
+ com.example.demo.src.video.model.PatchModifyVideoReq
+com/example/demo/src/video/model/PostVideoLikedReq.java
+ com.example.demo.src.video.model.PostVideoLikedReq
+com/example/demo/src/comment/model/Comment.java
+ com.example.demo.src.comment.model.Comment
+com/example/demo/utils/AES128.java
+ com.example.demo.utils.AES128
+com/example/demo/src/community/model/PatchCommunityStatusReq.java
+ com.example.demo.src.community.model.PatchCommunityStatusReq
+com/example/demo/src/WebSecurityConfig.java
+ com.example.demo.src.WebSecurityConfig
+com/example/demo/src/user/model/PostVideoHistoryRes.java
+ com.example.demo.src.user.model.PostVideoHistoryRes
+com/example/demo/src/user/model/PostLoginReq.java
+ com.example.demo.src.user.model.PostLoginReq
+ com.example.demo.src.user.model.PostLoginReq$PostLoginReqBuilder
+com/example/demo/src/comment/CommentDao.java
+ com.example.demo.src.comment.CommentDao
+com/example/demo/src/user/model/PostLogoutReq.java
+ com.example.demo.src.user.model.PostLogoutReq
+com/example/demo/src/user/model/PostSubscribeReq.java
+ com.example.demo.src.user.model.PostSubscribeReq
+com/example/demo/src/community/CommunityController.java
+ com.example.demo.src.community.CommunityController
+com/example/demo/src/community/model/GetCommunityCountCommentRes.java
+ com.example.demo.src.community.model.GetCommunityCountCommentRes
+com/example/demo/src/user/model/User.java
+ com.example.demo.src.user.model.User
+ com.example.demo.src.user.model.User$UserBuilder
+com/example/demo/src/community/model/PostCommPictureReq.java
+ com.example.demo.src.community.model.PostCommPictureReq
+com/example/demo/src/user/model/GetUserRes.java
+ com.example.demo.src.user.model.GetUserRes
+com/example/demo/src/reply/ReplyProvider.java
+ com.example.demo.src.reply.ReplyProvider
+com/example/demo/src/comment/model/GetCommentRes.java
+ com.example.demo.src.comment.model.GetCommentRes
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
